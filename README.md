@@ -1,5 +1,5 @@
-# road-to-CySA-from-Lagos to the World 🌍
-Documenting my cybersecurity journey from Nigeria to the world.
+# road-to-CySA🌍
+Documenting my cybersecurity journey 
 
 I’m learning cybersecurity from the ground up — documenting my journey to becoming a certified analyst (CySA+). Based in Nigeria, balancing my passion for creative work and cybersecurity defense.
 
